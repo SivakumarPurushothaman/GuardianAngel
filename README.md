@@ -1,7 +1,7 @@
 # GuardianAngel
 To save humanity
 Hi Everyone,
-At the time of you read this project many number a woman/men gets sexually abused and for Every minute many number of persons requires an emergency help across the world.
+At the time of you read this project for Every minute many number of persons requires an emergency help across the world.
 
 # How does the technology can be used to save the world?
 
