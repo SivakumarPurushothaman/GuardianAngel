@@ -8,7 +8,7 @@ At the time of you read this project for Every minute many number of persons req
 My Initial idea of android dev challenge was identifying the **fake news** across the world by using **Natural Language Processing** but all of sudden a week back in My country(India) a news that changed my mind to focus on the app/device to help the needy people in case of **emergency situation**.
 Since google and android has introduced many cool features for the safety of the common people and there are also many devices and many companies which helps the common people to save themselves in the time of emergency situation.
 
-The Existing feature costs very high a common people can’t afford to buy and the main motto of this idea is to afford a AI based emergency wearable for common people  
+The Existing feature costs very high among common people as they can’t afford to buy and the main motto of this idea is to afford a AI based emergency wearable for common people.  
 # Why Google should focus on this Idea?
 At the time of emergency, instant help is very important. Since google has good amount of data in terms of Google Maps API, Sms, Notifications, Block chain Technology, secured encryption and decryption transmission of messages, human wearable Interaction, Language Translation and voice analysis, heart beat sensors, temperature and pressure sensors and most important GPS Location Tracking and Geo fencing APIs to save humanity across the world. By using the google own APIs millions of people can be saved in emergency situations.
 Existing features helps any gender for safety and protection but it needs some technological advancements to work even more better and cost effective.
@@ -43,6 +43,10 @@ If a person press/scream by wrong - this can cancel it anytime (Depending on tim
 5.	This app alerts you even if the phone is in DNB mode, low battery mode, silent mode.
 
 # If you are inspired by this vision and mission take these ideas to save the humanity.
+
+Reach me 
+
+@ sivakumarpurushothaman01@gmail.com
 
 
 
