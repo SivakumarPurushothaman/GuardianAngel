@@ -46,8 +46,8 @@ If a person press/scream by wrong - this can cancel it anytime (Depending on tim
 # If you are inspired by this vision and mission take these ideas to save the humanity.
 
 Reach me 
-
 @ sivakumarpurushothaman01@gmail.com
+@ https://www.linkedin.com/in/sivakumar-purushothaman-327815117/
 
 
 
