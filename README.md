@@ -5,14 +5,14 @@ At the time of you read this project for Every minute many number of persons req
 
 # How does the technology can be used to save the world?
 
-My Initial idea of android dev challenge was identifying the fake news across the world by using Natural Language Processing but all of sudden a week back in My country(India) a news that changed my mind to focus on the app/device to help the needy people in case of emergency situation.
+My Initial idea of android dev challenge was identifying the **fake news** across the world by using **Natural Language Processing** but all of sudden a week back in My country(India) a news that changed my mind to focus on the app/device to help the needy people in case of **emergency situation**.
 Since google and android has introduced many cool features for the safety of the common people and there are also many devices and many companies which helps the common people to save themselves in the time of emergency situation.
 
 The Existing feature costs very high a common people can’t afford to buy and the main motto of this idea is to afford a AI based emergency wearable for common people  
 # Why Google should focus on this Idea?
 At the time of emergency, instant help is very important. Since google has good amount of data in terms of Google Maps API, Sms, Notifications, Block chain Technology, secured encryption and decryption transmission of messages, human wearable Interaction, Language Translation and voice analysis, heart beat sensors, temperature and pressure sensors and most important GPS Location Tracking and Geo fencing APIs to save humanity across the world. By using the google own APIs millions of people can be saved in emergency situations.
 Existing features helps any gender for safety and protection but it needs some technological advancements to work even more better and cost effective.
-Don’t worry if there is no network/ no internet. 
+**Don’t worry if there is no network/ no internet.** 
 This wearable will work with the network/Internet or even without them. It uses Bluetooth 5.0 which has range of 200 meters or with more advanced wireless network. It helps to transfer your message in most secured and encrypted way via block chain technology (Peer to peer protocol/ mesh Network). It uses same fire chat technology to help in case of emergency situations.
 
 # Guardian wear -wearable IOT device 
@@ -22,26 +22,27 @@ It also has a unique feature called wearable locking system and this lock only c
 In case of forgot your pin/change your pin – Guardian angel Personal Tracker App helps to change/create new four-digit pin.
 It requires no lifetime charge. It works on the Thermoelectric Power and also in solar power. 
 This wearable device contains following features:
-•	Heart rate monitoring
-•	Temperature and pressure monitoring
-•	GPS Location tracking
-•	Water resistant up to 50 meters
-•	Loud sound alarm of high pitch 120db
-•	Light weight and non – allergenic
-•	Location Sharing at any time at single click.
+1.	Heart rate monitoring
+2.	Temperature and pressure monitoring
+3.	GPS Location tracking
+4.	Water resistant up to 50 meters
+5.	Loud sound alarm of high pitch 120db
+6.	Light weight and non – allergenic
+7.	Location Sharing at any time at single click.
 
 If a person press/scream by wrong - this can cancel it anytime (Depending on time variance). This wearable can also be designed for disability persons to get instant help in case of emergency. 
 # Guardian Angel – Personal Tracker
-•	This app helps you to add the emergency contacts number.
-•	This app helps to view the 24/7 heart rate monitoring, sleep monitoring, calorie counting, activity tracking.
-•	This app helps to chat with google voice assistant, language assistant and also helps to store and train the wearable by defining the specific keyword/Phrase or native language screaming.
+1.	This app helps you to add the emergency contacts number.
+2.	This app helps to view the 24/7 heart rate monitoring, sleep monitoring, calorie counting, activity tracking.
+3.	This app helps to chat with google voice assistant, language assistant and also helps to store and train the wearable by defining the specific keyword/Phrase or native language screaming.
 # Guardian Protector – Protector App
-•	This app gets the details of the person who needs your help in case of emergency.
-•	This app helps to view your loved one’s live location.
-•	This app helps to mark the geo fencing and provide alerts that if they crossed the geo fencing tag locations.
-•	This app alerts you that if unknown person tries to remove or damages the wearable of your loved ones.
-•	This app alerts you even if the phone is in DNB mode, low battery mode, silent mode.
-If you are inspired by this vision and mission take these ideas to save the humanity.
+1.	This app gets the details of the person who needs your help in case of emergency.
+2.	This app helps to view your loved one’s live location.
+3.	This app helps to mark the geo fencing and provide alerts that if they crossed the geo fencing tag locations.
+4.	This app alerts you that if unknown person tries to remove or damages the wearable of your loved ones.
+5.	This app alerts you even if the phone is in DNB mode, low battery mode, silent mode.
+
+# If you are inspired by this vision and mission take these ideas to save the humanity.
 
 
 
