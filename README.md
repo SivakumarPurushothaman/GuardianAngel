@@ -1,6 +1,6 @@
 # GuardianAngel
 To save humanity
-Hi Everyone,
+**Hi Everyone**,
 At the time of you read this project for Every minute many number of persons requires an emergency help across the world.
 
 # How does the technology can be used to save the world?
@@ -10,17 +10,18 @@ Since google and android has introduced many cool features for the safety of the
 
 The Existing feature costs very high among common people as they can’t afford to buy and the main motto of this idea is to afford a AI based emergency wearable for common people.  
 # Why Google should focus on this Idea?
-At the time of emergency, instant help is very important. Since google has good amount of data in terms of Google Maps API, Sms, Notifications, Block chain Technology, secured encryption and decryption transmission of messages, human wearable Interaction, Language Translation and voice analysis, heart beat sensors, temperature and pressure sensors and most important GPS Location Tracking and Geo fencing APIs to save humanity across the world. By using the google own APIs millions of people can be saved in emergency situations.
+At the time of emergency, instant help is very important. Since google has good amount of data in terms of Google Maps API, Sms, Notifications, Block chain Technology, secured encryption and decryption transmission of messages, human wearable Interaction, Language Translation and voice analysis, heart beat sensors, temperature and pressure sensors and most important GPS Location Tracking and Geo fencing APIs to save humanity across the world. 
+By using the google own APIs millions of people can be saved in emergency situations.
 Existing features helps any gender for safety and protection but it needs some technological advancements to work even more better and cost effective.
 **Don’t worry if there is no network/ no internet.** 
-This wearable will work with the network/Internet or even without them. It uses Bluetooth 5.0 which has range of 200 meters or with more advanced wireless network. It helps to transfer your message in most secured and encrypted way via block chain technology (Peer to peer protocol/ mesh Network). It uses same fire chat technology to help in case of emergency situations.
+This wearable will work with the network/Internet or even without them. It uses Bluetooth 5.0 which has range of 200 meters or with more advanced wireless network. It helps to transfer your message in most secured and encrypted way via block chain technology (Peer to peer protocol/ mesh Network). It uses same **fire chat technology** to help in case of emergency situations.
 
 # Guardian wear -wearable IOT device 
 that helps you to connect to your smart phone or to your Inter connected network or to mesh Network or to school wireless network/collage wireless network or to a public wireless network. 
 It works on by simple click or scream out of loud for about 2 minutes (Time may vary) or by screaming out in their native languages/screaming by using a specific keyword. Artificial Intelligence switches on the safety Alarm and send alerts/notification/audio messages/SOS message of their live locations to their loved ones/guardian/police to help them as soon as possible.
-It also has a unique feature called wearable locking system and this lock only can be removed by the help of four-digit pin at the time of registration. By this feature it helps to prevent illegal persons to remove it without your access and it also sends a device failure/device breakage alert to their loved ones/guardian/police to help them as soon as possible. 
-In case of forgot your pin/change your pin – Guardian angel Personal Tracker App helps to change/create new four-digit pin.
-It requires no lifetime charge. It works on the Thermoelectric Power and also in solar power. 
+It also has a unique feature called wearable locking system and this lock only can be removed by the help of **four-digit pin** at the time of registration. By this feature it helps to prevent illegal persons to remove it without your access and it also sends a device failure/device breakage alert to their loved ones/guardian/police to help them as soon as possible. 
+In case of **forgot your pin/change your pin** – Guardian angel Personal Tracker App helps to change/create new four-digit pin.
+ It requires no lifetime charge. It works on the **Thermoelectric Power and also in solar power**. 
 This wearable device contains following features:
 1.	Heart rate monitoring
 2.	Temperature and pressure monitoring
